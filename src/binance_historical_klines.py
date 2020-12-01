@@ -1,6 +1,5 @@
 import pandas as pd
 from binance.client import Client
-from secrets import API_KEY, SECRET_KEY
 
 from pandas.core.frame import DataFrame
 
